@@ -1,0 +1,599 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|c:\\dev\\book\\prueba\\solucion.prueba\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.auditory\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|solutionrelative:api.auditory\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.auditory\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|solutionrelative:api.auditory\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|c:\\dev\\book\\prueba\\solucion.prueba\\ms.mongo.worktimerecord.db\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|solutionrelative:ms.mongo.worktimerecord.db\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.auditory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|solutionrelative:api.auditory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.auditory\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|solutionrelative:api.auditory\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|c:\\dev\\book\\prueba\\solucion.prueba\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|c:\\dev\\book\\prueba\\solucion.prueba\\init-mongo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|solutionrelative:init-mongo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.auditory\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|solutionrelative:api.auditory\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.auditory\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|solutionrelative:api.auditory\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.auditory\\data\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|solutionrelative:api.auditory\\data\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.auditory\\repositories\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|solutionrelative:api.auditory\\repositories\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.auditory\\entities\\mymongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|solutionrelative:api.auditory\\entities\\mymongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.auditory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|solutionrelative:api.auditory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.auditory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|solutionrelative:api.auditory\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.worktimerecord\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|solutionrelative:api.worktimerecord\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.worktimerecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|solutionrelative:api.worktimerecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.worktimerecord\\data\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|solutionrelative:api.worktimerecord\\data\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|c:\\dev\\book\\prueba\\solucion.prueba\\ms.mongo.worktimerecord.db\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|solutionrelative:ms.mongo.worktimerecord.db\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.worktimerecord\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|solutionrelative:api.worktimerecord\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.worktimerecord\\entities\\mongorecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|solutionrelative:api.worktimerecord\\entities\\mongorecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.worktimerecord\\repositories\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|solutionrelative:api.worktimerecord\\repositories\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.worktimerecord\\entities\\mymongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|solutionrelative:api.worktimerecord\\entities\\mymongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.auditory\\entities\\mongorecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|solutionrelative:api.auditory\\entities\\mongorecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|c:\\dev\\book\\prueba\\solucion.prueba\\ms.mongo.auditory.db\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|solutionrelative:ms.mongo.auditory.db\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|c:\\dev\\book\\prueba\\solucion.prueba\\ms.mongo.auditory.db\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{72AFC326-68F8-454F-A989-8C0A7390AF1F}|docker-compose.dcproj|solutionrelative:ms.mongo.auditory.db\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.worktimerecord\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|solutionrelative:api.worktimerecord\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.auditory\\consumer\\rabbitmqentityconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFDD9EB-F10B-412A-A86A-8229D8D37FAF}|API.Auditory\\API.Auditory.csproj|solutionrelative:api.auditory\\consumer\\rabbitmqentityconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\api.worktimerecord\\consumer\\rabbitmqentityconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A4258-D997-4DFA-A68E-1377018BD76C}|API.WorkTimeRecord\\API.WorkTimeRecord.csproj|solutionrelative:api.worktimerecord\\consumer\\rabbitmqentityconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B59163-55CC-49EA-AE34-8E5BD2AC56E0}|ms.communications\\ms.communications.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\ms.communications\\middlewares\\rabbitconsumermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B59163-55CC-49EA-AE34-8E5BD2AC56E0}|ms.communications\\ms.communications.csproj|solutionrelative:ms.communications\\middlewares\\rabbitconsumermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B59163-55CC-49EA-AE34-8E5BD2AC56E0}|ms.communications\\ms.communications.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\ms.communications\\consumers\\irabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B59163-55CC-49EA-AE34-8E5BD2AC56E0}|ms.communications\\ms.communications.csproj|solutionrelative:ms.communications\\consumers\\irabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B59163-55CC-49EA-AE34-8E5BD2AC56E0}|ms.communications\\ms.communications.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\ms.communications\\producers\\rabbiteventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B59163-55CC-49EA-AE34-8E5BD2AC56E0}|ms.communications\\ms.communications.csproj|solutionrelative:ms.communications\\producers\\rabbiteventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B59163-55CC-49EA-AE34-8E5BD2AC56E0}|ms.communications\\ms.communications.csproj|c:\\dev\\book\\prueba\\solucion.prueba\\ms.communications\\producers\\irabbitproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B59163-55CC-49EA-AE34-8E5BD2AC56E0}|ms.communications\\ms.communications.csproj|solutionrelative:ms.communications\\producers\\irabbitproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Program.cs",
+              "RelativeDocumentMoniker": "API.Auditory\\Program.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Program.cs",
+              "RelativeToolTip": "API.Auditory\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:14:05.74Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Staging.json",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\appsettings.Staging.json",
+              "RelativeDocumentMoniker": "API.Auditory\\appsettings.Staging.json",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\appsettings.Staging.json",
+              "RelativeToolTip": "API.Auditory\\appsettings.Staging.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T07:22:11.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API.Auditory\\appsettings.Development.json",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\appsettings.Development.json",
+              "RelativeToolTip": "API.Auditory\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T20:40:09.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-21T20:43:52.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.mongo.worktimerecord.db\\Dockerfile",
+              "RelativeDocumentMoniker": "ms.mongo.worktimerecord.db\\Dockerfile",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.mongo.worktimerecord.db\\Dockerfile",
+              "RelativeToolTip": "ms.mongo.worktimerecord.db\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-23T20:35:42.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-21T20:41:00.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Dockerfile",
+              "RelativeDocumentMoniker": "API.Auditory\\Dockerfile",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Dockerfile",
+              "RelativeToolTip": "API.Auditory\\Dockerfile",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-23T21:06:23.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "init-mongo.js",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\init-mongo.js",
+              "RelativeDocumentMoniker": "init-mongo.js",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\init-mongo.js",
+              "RelativeToolTip": "init-mongo.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-28T19:35:31.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MongoRepository.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Repositories\\MongoRepository.cs",
+              "RelativeDocumentMoniker": "API.Auditory\\Repositories\\MongoRepository.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Repositories\\MongoRepository.cs",
+              "RelativeToolTip": "API.Auditory\\Repositories\\MongoRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwBcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:43:49.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "API.Auditory\\appsettings.Production.json",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\appsettings.Production.json",
+              "RelativeToolTip": "API.Auditory\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T20:40:23.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MongoContext.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Data\\MongoContext.cs",
+              "RelativeDocumentMoniker": "API.Auditory\\Data\\MongoContext.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Data\\MongoContext.cs",
+              "RelativeToolTip": "API.Auditory\\Data\\MongoContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:43:29.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API.Auditory\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API.Auditory\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwBsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:17:38.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MyMongoEntity.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Entities\\MyMongoEntity.cs",
+              "RelativeDocumentMoniker": "API.Auditory\\Entities\\MyMongoEntity.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Entities\\MyMongoEntity.cs",
+              "RelativeToolTip": "API.Auditory\\Entities\\MyMongoEntity.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:46:24.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\appsettings.json",
+              "RelativeDocumentMoniker": "API.Auditory\\appsettings.json",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\appsettings.json",
+              "RelativeToolTip": "API.Auditory\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T21:20:27.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API.Auditory\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API.Auditory\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-29T20:31:24.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MongoContext.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Data\\MongoContext.cs",
+              "RelativeDocumentMoniker": "API.WorkTimeRecord\\Data\\MongoContext.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Data\\MongoContext.cs",
+              "RelativeToolTip": "API.WorkTimeRecord\\Data\\MongoContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:10:21.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API.WorkTimeRecord\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API.WorkTimeRecord\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:37:34.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Program.cs",
+              "RelativeDocumentMoniker": "API.WorkTimeRecord\\Program.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Program.cs",
+              "RelativeToolTip": "API.WorkTimeRecord\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:25:50.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAACgCAAAAAAAAAAD4vzICAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-28T21:15:12.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "init.js",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.mongo.worktimerecord.db\\init.js",
+              "RelativeDocumentMoniker": "ms.mongo.worktimerecord.db\\init.js",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.mongo.worktimerecord.db\\init.js",
+              "RelativeToolTip": "ms.mongo.worktimerecord.db\\init.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-23T20:39:06.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\appsettings.json",
+              "RelativeDocumentMoniker": "API.WorkTimeRecord\\appsettings.json",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\appsettings.json",
+              "RelativeToolTip": "API.WorkTimeRecord\\appsettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T21:42:45.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MongoRecord.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Entities\\MongoRecord.cs",
+              "RelativeDocumentMoniker": "API.WorkTimeRecord\\Entities\\MongoRecord.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Entities\\MongoRecord.cs",
+              "RelativeToolTip": "API.WorkTimeRecord\\Entities\\MongoRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:10:31.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MongoRepository.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Repositories\\MongoRepository.cs",
+              "RelativeDocumentMoniker": "API.WorkTimeRecord\\Repositories\\MongoRepository.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Repositories\\MongoRepository.cs",
+              "RelativeToolTip": "API.WorkTimeRecord\\Repositories\\MongoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:10:39.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MyMongoEntity.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Entities\\MyMongoEntity.cs",
+              "RelativeDocumentMoniker": "API.WorkTimeRecord\\Entities\\MyMongoEntity.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Entities\\MyMongoEntity.cs",
+              "RelativeToolTip": "API.WorkTimeRecord\\Entities\\MyMongoEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:10:34.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MongoRecord.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Entities\\MongoRecord.cs",
+              "RelativeDocumentMoniker": "API.Auditory\\Entities\\MongoRecord.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Entities\\MongoRecord.cs",
+              "RelativeToolTip": "API.Auditory\\Entities\\MongoRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:07:18.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "init.js",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.mongo.auditory.db\\init.js",
+              "RelativeDocumentMoniker": "ms.mongo.auditory.db\\init.js",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.mongo.auditory.db\\init.js",
+              "RelativeToolTip": "ms.mongo.auditory.db\\init.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-28T20:25:29.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.mongo.auditory.db\\Dockerfile",
+              "RelativeDocumentMoniker": "ms.mongo.auditory.db\\Dockerfile",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.mongo.auditory.db\\Dockerfile",
+              "RelativeToolTip": "ms.mongo.auditory.db\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-28T20:27:47.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RabbitMqEntityConsumer.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Consumer\\RabbitMqEntityConsumer.cs",
+              "RelativeDocumentMoniker": "API.WorkTimeRecord\\Consumer\\RabbitMqEntityConsumer.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Consumer\\RabbitMqEntityConsumer.cs",
+              "RelativeToolTip": "API.WorkTimeRecord\\Consumer\\RabbitMqEntityConsumer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB0AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:37:30.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RabbitEventProducer.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.communications\\Producers\\RabbitEventProducer.cs",
+              "RelativeDocumentMoniker": "ms.communications\\Producers\\RabbitEventProducer.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.communications\\Producers\\RabbitEventProducer.cs",
+              "RelativeToolTip": "ms.communications\\Producers\\RabbitEventProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:23:47.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RabbitConsumerMiddleware.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.communications\\Middlewares\\RabbitConsumerMiddleware.cs",
+              "RelativeDocumentMoniker": "ms.communications\\Middlewares\\RabbitConsumerMiddleware.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.communications\\Middlewares\\RabbitConsumerMiddleware.cs",
+              "RelativeToolTip": "ms.communications\\Middlewares\\RabbitConsumerMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:22:29.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Dockerfile",
+              "RelativeDocumentMoniker": "API.WorkTimeRecord\\Dockerfile",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.WorkTimeRecord\\Dockerfile",
+              "RelativeToolTip": "API.WorkTimeRecord\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-23T19:09:58.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRabbitProducer.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.communications\\Producers\\IRabbitProducer.cs",
+              "RelativeDocumentMoniker": "ms.communications\\Producers\\IRabbitProducer.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.communications\\Producers\\IRabbitProducer.cs",
+              "RelativeToolTip": "ms.communications\\Producers\\IRabbitProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T18:43:20.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RabbitMqEntityConsumer.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Consumer\\RabbitMqEntityConsumer.cs",
+              "RelativeDocumentMoniker": "API.Auditory\\Consumer\\RabbitMqEntityConsumer.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\API.Auditory\\Consumer\\RabbitMqEntityConsumer.cs",
+              "RelativeToolTip": "API.Auditory\\Consumer\\RabbitMqEntityConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:07:05.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRabbitMqConsumer.cs",
+              "DocumentMoniker": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.communications\\Consumers\\IRabbitMqConsumer.cs",
+              "RelativeDocumentMoniker": "ms.communications\\Consumers\\IRabbitMqConsumer.cs",
+              "ToolTip": "C:\\DEV\\Book\\Prueba\\Solucion.Prueba\\ms.communications\\Consumers\\IRabbitMqConsumer.cs",
+              "RelativeToolTip": "ms.communications\\Consumers\\IRabbitMqConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:16:40.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

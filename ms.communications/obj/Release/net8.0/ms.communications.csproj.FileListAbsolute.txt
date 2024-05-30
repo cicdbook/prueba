@@ -1,0 +1,12 @@
+C:\DEV\Book\Prueba\Solucion.Prueba\ms.communications\obj\Release\net8.0\ms.communications.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Book\Prueba\Solucion.Prueba\ms.communications\obj\Release\net8.0\ms.communications.AssemblyInfoInputs.cache
+C:\DEV\Book\Prueba\Solucion.Prueba\ms.communications\obj\Release\net8.0\ms.communications.AssemblyInfo.cs
+C:\DEV\Book\Prueba\Solucion.Prueba\ms.communications\obj\Release\net8.0\ms.communications.csproj.CoreCompileInputs.cache
+C:\DEV\Book\Prueba\Solucion.Prueba\ms.communications\bin\Release\net8.0\ms.communications.deps.json
+C:\DEV\Book\Prueba\Solucion.Prueba\ms.communications\bin\Release\net8.0\ms.communications.dll
+C:\DEV\Book\Prueba\Solucion.Prueba\ms.communications\bin\Release\net8.0\ms.communications.pdb
+C:\DEV\Book\Prueba\Solucion.Prueba\ms.communications\obj\Release\net8.0\ms.communications.csproj.AssemblyReference.cache
+C:\DEV\Book\Prueba\Solucion.Prueba\ms.communications\obj\Release\net8.0\ms.communications.dll
+C:\DEV\Book\Prueba\Solucion.Prueba\ms.communications\obj\Release\net8.0\refint\ms.communications.dll
+C:\DEV\Book\Prueba\Solucion.Prueba\ms.communications\obj\Release\net8.0\ms.communications.pdb
+C:\DEV\Book\Prueba\Solucion.Prueba\ms.communications\obj\Release\net8.0\ref\ms.communications.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HRviuzuf9AwH8oW1nj9lkYyXLByiD3zz5I4SRyjbQSE=",
+  "Source": "API.WorkTimeRecord",
+  "BasePath": "_content/API.WorkTimeRecord",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
